@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/loveApp/static/css/main.ef51b5b8.css",
+    "main.js": "/loveApp/static/js/main.e1a638e3.js",
+    "static/js/488.4139a28a.chunk.js": "/loveApp/static/js/488.4139a28a.chunk.js",
+    "static/media/finallly.gif": "/loveApp/static/media/finallly.dc5a38df78b0729d7087.gif",
+    "static/media/audio.mp3": "/loveApp/static/media/audio.f04825e0e16e02e85f67.mp3",
+    "static/media/asking.gif": "/loveApp/static/media/asking.409cbb427a6a8574c429.gif",
+    "static/media/please.gif": "/loveApp/static/media/please.f58cddda9c55a379fe0b.gif",
+    "static/media/hmm.gif": "/loveApp/static/media/hmm.8819f67d69cc4dd1d369.gif",
+    "index.html": "/loveApp/index.html",
+    "main.ef51b5b8.css.map": "/loveApp/static/css/main.ef51b5b8.css.map",
+    "main.e1a638e3.js.map": "/loveApp/static/js/main.e1a638e3.js.map",
+    "488.4139a28a.chunk.js.map": "/loveApp/static/js/488.4139a28a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef51b5b8.css",
+    "static/js/main.e1a638e3.js"
+  ]
+}
